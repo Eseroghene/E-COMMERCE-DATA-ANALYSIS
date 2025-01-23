@@ -68,22 +68,30 @@
 
 **Geographical Performance**
 
-	 •	Revenue: West region has the highest with $16.7M, while South has the lowest at $8.4M. There’s a decline from West to South.
-	 •	A.O.V.: West region has the highest at 433.2, and South the lowest at 425.2. A.O.V decreases similarly to revenue.
-	 •	Correlation: Higher revenue is linked to higher A.O.V, showing a possible cause of high sales in the West region.
+	 •	Revenue: West region has the highest with $16.7M, while South has the lowest at $8.4M. There’s a 
+    decline from West to South.
+	 •	A.O.V.: West region has the highest at 433.2, and South the lowest at 425.2. A.O.V decreases 
+    similarly to revenue.
+	 •	Correlation: Higher revenue is linked to higher A.O.V, showing a possible cause of high sales in the 
+    West region.
 
  **Delivery Vs Sales Relationship By Regions**
  
-    •	Late Delivery: Despite late deliveries, sales revenue across all regions remains high, with the West region leading. This suggests that customers 
+    •	Late Delivery: Despite late deliveries, sales revenue across all regions remains high, with the West 
+     region leading. This suggests that customers 
       are primarily satisfied with product quality and are willing to overlook delivery delays.
-	  •	Advance Shipping: The sales impact of advance shipping varies significantly across regions. The West region demonstrates the highest demand for 
+	  •	Advance Shipping: The sales impact of advance shipping varies significantly across regions. The West 
+      region demonstrates the highest demand for 
       faster delivery, followed by the East, South, and Central regions.
-	  •	On-Time Delivery: The East region demonstrates the highest revenue, suggesting a strong focus on timely delivery and potentially higher customer 
-      satisfaction. The Central region has the lowest revenue, indicating potential challenges in meeting delivery deadlines.
+	  •	On-Time Delivery: The East region demonstrates the highest revenue, suggesting a strong focus on 
+     timely delivery and potentially higher customer 
+      satisfaction. The Central region has the lowest revenue, indicating potential challenges in meeting 
+     delivery deadlines.
 		
 **Customer Segmentation**
 
- 	•	Consumer Segment: Dominates both in quantity and revenue, showing the highest interest in products and driving overall sales.
+ 	•	Consumer Segment: Dominates in quantity and product,showing the highest interest in products and 
+    driving overall sales.
 	•	Corporate Segment: Makes a strong contribution to revenue.
 	•	Home Office & Home Segments: Smaller but still significant, with growth potential in these areas.
 
@@ -95,3 +103,47 @@
     ANALYSIS/main/Dashboard%20Image.png)
 
 ## RECOMMENDATIONS
+
+  **Historical Sales Trend**
+		
+	•	Conduct market research to understand the decline.
+	•	Innovate with new products and revise marketing strategies.
+	•	Optimize costs and focus on customer retention.
+
+ **Customer Retention and Loyalty**
+ 
+  	•	While the business has a solid base of returning customers, there is potential for growth 
+    by improving strategies to attract more new customers.
+		
+ **Shipping Vs Delivery Performance**
+ 
+    •	Improve Same Day & Standard Class: Streamline logistics to reduce late deliveries.
+	  •	Reduce Cancelled Shipments: Focus on lowering cancellations in First Class (5.59%).
+	  •	Promote Reliable Classes: Market First Class for its high on-time percentage (82.91%) and 
+       low late deliveries (9.65%).
+		
+ **Geographical Performance**
+ 
+    •	Invest in the West for its high revenue ($16.7M) and A.O.V (433.2).
+	  •	Boost revenue in the South, which has the lowest revenue ($8.4M) and A.O.V (425.2), by 
+      addressing potential challenges.
+	  •	Apply best practices from the West to improve performance in the Central and South regions.
+
+**Delivery and Sales Relationship By Regions**
+		
+		Late Delivery:
+	•	Despite high sales in all regions, especially in the West, streamline delivery processes to reduce 
+    delays. Emphasize product quality and manage customer expectations to maintain satisfaction.
+	  Advance Shipping:
+	•	West has the highest demand for faster delivery. Offer premium shipping options, particularly in the 
+    West, and extend them to other regions like the East and South where demand is also notable.
+		On-Time Delivery:
+	•	East region’s focus on timely delivery is contributing to higher revenue. Replicate these best 
+    practices in the Central region to overcome its delivery challenges and boost its revenue.
+
+**Customer Segmementation**
+
+	•	Consumer Segment: Continue to  Focus on driving repeat sales with targeted marketing and personalized 
+    offers.
+	•	Corporate Segment: Strengthen relationships and offer bulk discounts or subscriptions to boost revenue.
+	•	Home Office & Home Segments: Invest in tailored products and marketing to capture growth potential.
