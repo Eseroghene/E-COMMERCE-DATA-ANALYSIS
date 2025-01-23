@@ -87,7 +87,7 @@
 	•	Corporate Segment: Makes a strong contribution to revenue.
 	•	Home Office & Home Segments: Smaller but still significant, with growth potential in these areas.
 
-## Dashboard
+## DASHBOARD
 
     The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
 
