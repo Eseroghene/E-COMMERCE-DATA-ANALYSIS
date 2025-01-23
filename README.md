@@ -101,8 +101,7 @@
 
     The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
 
-    ![Dashboard Preview](https://rawgithubusercontent.com/Eseroghene/E-COMMERCE-DATA- 
-    ANALYSIS/main/Dashboard%20Image.png)
+    [!Dashboard](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/edit/main/README.md#:~:text=Dashboard-,Image,-.png)
 
 ## RECOMMENDATIONS
 
