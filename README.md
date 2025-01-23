@@ -1,6 +1,6 @@
 # E-COMMERCE DATA ANALYSIS
 
-**PROJECT OVERVIEW**
+## PROJECT OVERVIEW
 
 	•	This project explores an E-Commerce dataset to uncover actionable insights and trends in:
 	•	Sales
@@ -9,7 +9,7 @@
 	•	The analysis is presented through an interactive Power BI dashboard.
 	•	Key performance indicators (KPIs) and trends are displayed clearly for easy understanding at a glance.
  
-**KEY OBJECTIVES**
+## KEY OBJECTIVES
 
 	•	Sales Trends Analysis
 	•	Customer Retention & Loyalty
@@ -18,7 +18,7 @@
 	•	Shipping Type vs. Delivery Performance
 	•	Customer Segmentation
  
-**FEATURES OF DATASET USED** 
+## FEATURES OF DATASET USED
 
 	•	customer_id
 	•	order_id
@@ -35,13 +35,13 @@
 	•	order_quantity
 	•	profit_per_order
 
- **TECHNOLOGIES USED**
+ ## TECHNOLOGIES USED
  
  	•	Excel: For initial dataset review and preparation.
 	•	Power Query: For transforming and loading of data efficiently.
 	•	Power BI: For interactive data visualization and dashboard creation.
 
- **DASHBOARD HIGHLIGHTS**
+ ## DASHBOARD HIGHLIGHTS
  
   **Historical Sales Trend**
 	
@@ -91,6 +91,7 @@
 
     The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
 
-![Dashboard Preview](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%20Image.png)
+    ![Dashboard Preview](https://rawgithubusercontent.com/Eseroghene/E-COMMERCE-DATA- 
+    ANALYSIS/main/Dashboard%20Image.png)
 
- 
+## RECOMMENDATIONS
