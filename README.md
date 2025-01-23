@@ -1,35 +1,31 @@
+#E-COMMERCE DATA ANALYSIS
+
 **PROJECT OVERVIEW**
-This project explores an eCommerce dataset to uncover actionable insights and trends in sales, customer behavior, and operational efficiency. The analysis is presented through an interactive Power BI dashboard, making it easy to understand key performance indicators (KPIs) and trends at a glance.
+This project explores an E-Commerce dataset to uncover actionable insights and trends in sales, customer behavior, and operational efficiency. The analysis is presented through an interactive Power BI dashboard, making it easy to understand key performance indicators (KPIs) and trends at a glance.
 
 **KEY OBJECTIVES**
-	•	Sales Trends Analysis: Analyze sales patterns across different periods (monthly, seasonal, annual) and identify top-performing product categories.
-	•	Customer Retention & Loyalty: Calculate the customer retention rate and assess the proportion of returning customers.
-	•	Geographical Performance: Evaluate regional sales performance and explore factors that impact sales variations.
-	•	Delivery and Sales Relationship: Assess the impact of delivery status (on-time, delayed, canceled) on sales and customer satisfaction.
-	•	Shipping Type vs. Delivery Performance: Investigate the effect of different shipping methods on delivery performance.
-	•	Customer Segmentation: Group customers based on behavior, preferences, and demographics to identify the most engaged segments.
+	•	Sales Trends Analysis
+	•	Customer Retention & Loyalty
+	•	Geographical Performance
+	•	Delivery and Sales Relationship
+	•	Shipping Type vs. Delivery Performance
+	•	Customer Segmentation
  
-**DATASET USED**
-The dataset used contains 
-Key Identifiers:
-	•	customer_id: Unique identifier for each customer.
-	•	order_id: Unique identifier for each order.
-Customer Information:
-	•	customer_full_name: Name of the customer.
-	•	customer_city, customer_state, customer_country, customer_region: Geographical information.
-Product Information:
-	•	category_name: Category of the product (e.g., Furniture, Office Supplies).
-	•	product_name: Name of the product.
-Order and Shipping Details:
-	•	order_date: Date when the order was placed.
-	•	ship_date: Date when the product was shipped.
-	•	shipping_type: Method of shipping (e.g., Standard Class, Second Class).
-	•	delivery_status: Status of delivery (e.g., Late, On Time).
-Business Metrics:
-	•	order_item_discount: Discount applied to the order.
-	•	sales_per_order: Sales generated per order.
-	•	order_quantity: Quantity of items ordered.
-	•	profit_per_order: Profit made per order.
+**DATASET USED** 
+	•	customer_id
+	•	order_id
+	•	customer_full_name
+	•	customer_city
+	•	category_name
+	•	product_name
+	•	order_date
+	•	ship_date
+	•	shipping_type
+	•	delivery_status
+	•	order_item_discount
+	•	sales_per_order
+	•	order_quantity
+	•	profit_per_order
 
  **TECHNOLOGIES USED**
  	•	Excel: For initial dataset review and preparation.
@@ -37,11 +33,11 @@ Business Metrics:
 	•	Power BI: For interactive data visualization and dashboard creation.
 
  **DASHBOARD HIGHLIGHTS**
-Historical Sales Trend
+  . Historical Sales Trend:
 	•	Explosive Growth (2019-2022): Revenue surged, likely driven by new products, marketing, or demand.
 	•	Sharp Decline in 2023: Revenue dropped, possibly due to increased competition, economic factors, or marketing inefficiency.
  
- Top Performing Categories
+  .Top Performing Categories:
  	•	Office Supplies is the top performer and leads with $31 million, contributing the most to revenue.
 	•	Furniture follows with $11 million in revenue.
 	•	Technology generates the least, with $9 million in revenue.
