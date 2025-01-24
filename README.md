@@ -69,7 +69,7 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 - West region has the highest revenue with $16.7M, while South has the lowest at $8.4M. There’s a decline from West to South.
 - West region has the highest A.O.V at 433.2, and South the lowest at 425.2. A.O.V decreases similarly to revenue.
 - Correlation: Higher revenue is linked to higher A.O.V, showing a possible cause of high sales in the West region.
-![Georaphical Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Geographical%20Performance.png
+![Georaphical Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Geographical%20Performance.png)
 
 ### Delivery Vs Sales Relationship By Regions
  
@@ -78,18 +78,21 @@ customer satisfaction.
 - Advance Shipping: The West shows the highest demand for faster delivery, followed by the East, South, and Central regions.
 - On-Time Delivery: The East achieves the highest revenue, reflecting a focus on timely delivery and customer satisfaction, while the 
 - Central struggles with low revenue due to delivery challenges.
-		
+![Delivery and Sales by Region](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Delivery%20and%20Sales%20by%20Region.png)		
+
 ### Customer Segmentation
 
 - Consumer Segment: Dominates in quantity and product,showing the highest interest in products and  driving overall sales.
 - Corporate Segment: Makes a strong contribution to revenue.
 - Home Office & Home Segments: Smaller but still significant, with growth potential in these areas.
+![Customer Segmentation](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Customer%20Segmentation.png)
 
 ### DASHBOARD
+The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
 
-    The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
+![Dashboard 2](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%202.png)
 
-    [!Dashboard](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/edit/main/README.md#:~:text=Dashboard-,Image,-.png)
+![Dashboard](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard.png)
 
 ## RECOMMENDATIONS
 
