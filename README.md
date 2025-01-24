@@ -101,9 +101,11 @@ The project includes an interactive dashboard to visualize key insights from the
 - Innovate with new products and revise marketing strategies.
 - Optimize costs and focus on customer retention.
 - Improve strategies to attract new customers while retaining existing ones.
-- Improve Same Day & Standard Class shipping to reduce late deliveries.
-- Reduce First Class cancellations (5.59%).
-- Promote First Class for its high on-time percentage (82.91%) and low late deliveries (9.65%).
+- Investigate and address the reasons for the high late delivery rate for Same Day shipping to improve on-time 
+  performance.
+- Focus on reducing late deliveries for First Class despite its high advance shipping rate.
+- Maintain the current performance of Second Class as it provides a balanced service.
+- Continue monitoring and maintaining the well-balanced performance of Standard Class.
 - Invest in the West for higher revenue ($16.7M) and A.O.V (433.2).
 - Boost revenue in the South by addressing challenges.
 - Apply best practices from the West to improve Central and South regions.
