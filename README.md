@@ -5,7 +5,7 @@
 - Key Objectives
 - Tools Used
 - Workflow
-- Dashboard Highlights
+- Dashboard Insights
 - Dashboard
 - Recommendations
 
@@ -29,7 +29,7 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 - Measures were created and Calculated Date Columns to support Analysis.
 - Visualize trends and pattern using bar chart, line chart, column chart, matrix and Pie chart.
 
-## DASHBOARD HIGHLIGHTS
+## DASHBOARD INSGHTS
 ### Historical Sales Trend
   **Annually**
  - From 2015 to 2018, sales remained steady at $1M. However, from 2019 to 2022, there was significant growth, reaching $25M by the end of the period.
