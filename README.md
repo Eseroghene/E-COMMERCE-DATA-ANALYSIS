@@ -26,7 +26,7 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 - The dataset was loaded in Power Bi and cleaned and transformed using power Query to address missing values,duplicates,and inconsistent Date format
 
 **3. Analysis and Visualization**
-- Measures were created to support Analysis.
+- Measures were created and Calculated Date Columns to support Analysis.
 - Visualize trends and pattern using bar chart, line chart, column chart, matrix and Pie chart.
 
 ## DASHBOARD HIGHLIGHTS
