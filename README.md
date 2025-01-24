@@ -52,8 +52,8 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 
  ### Customer Retention and Loyalty
 
- - Returning Customers: Represent 58.42% (42K), indicating strong customer retention and loyalty.
- - The 65.3% retention rate supports the idea of strong customer loyalty.
+ - Returning Customers: Represent 71.18% (30K), indicating strong customer retention and loyalty.
+ - The 71.18% retention rate supports the idea of strong customer loyalty.
 ![% of Returning Customer](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/%25%20of%20Returning%20Customer.png)
 
  ### Shipping Type Vs Delivery Performance
