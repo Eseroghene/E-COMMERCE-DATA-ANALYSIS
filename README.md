@@ -17,7 +17,7 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
  - Excel: For initial dataset review and preparation.
  - Power Query: For Data Preparation,Cleaning and Transformation.
  - Power BI: For interactive Data visualization and Reporting.
- - 
+
 ## Workflow
 **1. Data Exploration**
 - The dataset was initially view in Excel
