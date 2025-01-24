@@ -87,22 +87,22 @@ customer satisfaction.
 
 ## RECOMMENDATIONS
 
--Conduct market research to understand sales decline.
--Innovate with new products and revise marketing strategies.
--Optimize costs and focus on customer retention.
--Improve strategies to attract new customers while retaining existing ones.
--Improve Same Day & Standard Class shipping to reduce late deliveries.
--Reduce First Class cancellations (5.59%).
--Promote First Class for its high on-time percentage (82.91%) and low late deliveries (9.65%).
--Invest in the West for higher revenue ($16.7M) and A.O.V (433.2).
--Boost revenue in the South by addressing challenges.
--Apply best practices from the West to improve Central and South regions.
--Streamline delivery processes to reduce delays, especially in the West.
--Offer premium shipping options, particularly in the West and other regions like the East and South.
--Replicate East region’s on-time delivery practices in the Central region to increase revenue.
--Focus on driving repeat sales in the Consumer segment with targeted marketing.
--Strengthen Corporate segment relationships and offer bulk discounts.
--Invest in tailored products and marketing for Home Office & Home segments.
--Provide an interactive Power BI dashboard to analyze E-Commerce trends, customer segmentation, and product performance for actionable insights.
+- Conduct market research to understand sales decline.
+- Innovate with new products and revise marketing strategies.
+- Optimize costs and focus on customer retention.
+- Improve strategies to attract new customers while retaining existing ones.
+- Improve Same Day & Standard Class shipping to reduce late deliveries.
+- Reduce First Class cancellations (5.59%).
+- Promote First Class for its high on-time percentage (82.91%) and low late deliveries (9.65%).
+- Invest in the West for higher revenue ($16.7M) and A.O.V (433.2).
+- Boost revenue in the South by addressing challenges.
+- Apply best practices from the West to improve Central and South regions.
+- Streamline delivery processes to reduce delays, especially in the West.
+- Offer premium shipping options, particularly in the West and other regions like the East and South.
+- Replicate East region’s on-time delivery practices in the Central region to increase revenue.
+- Focus on driving repeat sales in the Consumer segment with targeted marketing.
+- Strengthen Corporate segment relationships and offer bulk discounts.
+- Invest in tailored products and marketing for Home Office & Home segments.
+- Provide an interactive Power BI dashboard to analyze E-Commerce trends, customer segmentation, and product performance for actionable insights.
   
 		
