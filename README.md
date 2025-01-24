@@ -41,18 +41,20 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 
 **Seasonal**
  - There were high sales in the spring and early summer (Q2), but sales fell drastically from the winter to the spring (Q1 to Q2).
-
+![Sales By Season](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Sales%20By%20Season.png)
  
 ### Top Performing Categories
 	
   - Office Supplies is the top performer and leads with $31 million, contributing the most to revenue.
   - Furniture follows with $11 million in revenue.
   - Technology generates the least, with $9 million in revenue.
- 
-### Customer Retention and Loyalty
+ ![Top performing Category](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%20Performing%20Category.png)
+
+ ### Customer Retention and Loyalty
 
  - Returning Customers: Represent 58.42% (42K), indicating strong customer retention and loyalty.
  - The 65.3% retention rate supports the idea of strong customer loyalty.
+![% of Returning Customer](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/%25%20of%20Returning%20Customer.png)
 
  ### Shipping Type Vs Delivery Performance
  
@@ -60,12 +62,14 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
   - Same Day Shipping: Fast but struggles with on-time performance, with 45.65% of deliveries being late.
   - Standard Class: Least reliable, with 38.31% late deliveries and 20.70% advance shipments.
   - Cancellation Rates: Generally low across all shipping types, with late deliveries being a bigger concern.
+![shipping by Delivery Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/shipping%20by%20Delivery%20Performance.png)
 
 ### Geographical Performance**
 
 - West region has the highest revenue with $16.7M, while South has the lowest at $8.4M. There’s a decline from West to South.
 - West region has the highest A.O.V at 433.2, and South the lowest at 425.2. A.O.V decreases similarly to revenue.
 - Correlation: Higher revenue is linked to higher A.O.V, showing a possible cause of high sales in the West region.
+![Georaphical Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Geographical%20Performance.png
 
 ### Delivery Vs Sales Relationship By Regions
  
