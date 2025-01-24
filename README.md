@@ -1,13 +1,13 @@
 # E-COMMERCE DATA ANALYSIS
 
 ## TABLE OF CONTENT
-- Project Overview
-- Key Objectives
-- Tools Used
-- Workflow
-- Dashboard Insights
-- Dashboard
-- Recommendations
+- [Project Overview](#Project-Overview)
+- [Key Objectives](#Key-Objectives)
+- [Tools Used](#Tools-Used)
+- [Workflow](#Workflow)
+- [Dashboard Insights](#Dashboard-Insights)
+- [Dashboard](#Dashboard)
+- [Recommendations](#Recommendation)
 
 ## PROJECT OVERVIEW
 This project explores an E-Commerce dataset to uncover actionable insights and trends in sales, customer behavior, and operational efficiency, presented through an interactive Power BI dashboard that clearly displays key performance indicators (KPIs) and trends for easy understanding at a glance.
