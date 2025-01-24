@@ -23,7 +23,7 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 - The dataset was initially view in Excel
 
 **2. Data Loading and Transformation**
-- The dataset was loaded in Power Bi and cleaned and transformed using power Query to address missing values,duplicates,Replaced values and inconsistent Date format
+- The dataset was loaded in Power Bi and cleaned and transformed using power Query to address missing values,duplicates,Replaced values,Removes excess spaces and inconsistent Date format
 
 **3. Analysis and Visualization**
 - Measures were created and Calculated Date Columns to support Analysis.
