@@ -33,10 +33,11 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 ### Historical Sales Trend
   **Annually**
  - From 2015 to 2018, sales remained steady at $1M. However, from 2019 to 2022, there was significant growth, reaching $25M by the end of the period.
- - ![Sales By Year](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Sales%20By%20Year.png)
+![Sales By Year](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Sales%20By%20Year.png)
 
  **Monthly**
  - Monthly sales showed fluctuations, with October recording the highest sales at $5.5M and December the lowest at $3.7M.
+![Sales By Month](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Sales%20By%20Month.png)
 
 **Seasonal**
  - There were high sales in the spring and early summer (Q2), but sales fell drastically from the winter to the spring (Q1 to Q2).
