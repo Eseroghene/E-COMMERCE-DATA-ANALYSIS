@@ -112,6 +112,4 @@ The project includes an interactive dashboard to visualize key insights from the
 - Focus on driving repeat sales in the Consumer segment with targeted marketing.
 - Strengthen Corporate segment relationships and offer bulk discounts.
 - Invest in tailored products and marketing for Home Office & Home segments.
-- Provide an interactive Power BI dashboard to analyze E-Commerce trends, customer segmentation, and product performance for actionable insights.
-  
-		
+
