@@ -2,7 +2,6 @@
 
 ## TABLE OF CONTENT
 - [Project Overview](#Project-Overview)
-- [Key Objectives](#Key-Objectives)
 - [Tools Used](#Tools-Used)
 - [Workflow](#Workflow)
 - [Dashboard Insights](#Dashboard-Insights)
