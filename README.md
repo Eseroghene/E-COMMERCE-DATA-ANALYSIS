@@ -57,11 +57,12 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 
  ### Shipping Type Vs Delivery Performance
  
- - Same Day: Best for on-time delivery (48.57%) but also has the highest late delivery rate (45.65%).
- - First Class: Leads in advance shipping (82.91%) but faces relatively high late deliveries (36.87%).
- - Second Class: Shows a good balance across all performance metrics.
- - Standard Class: A solid all-rounder with consistent rates in on-time delivery (20.70%), advance shipping 
-   (38.31%), and late delivery (36.87%).
+ - Same Day: Best for on-time delivery (48.57%), but high late delivery (45.65%).
+ - Second Class: Balanced performance with a 71.46% late delivery rate, low advance shipping, and no data on cancellations.
+ - Standard Class: Consistent with on-time delivery (20.70%), advance shipping (38.31%), and late delivery (36.87%).
+ - First Class: Highest late deliveries (82.91%) and shipping cancellations (9.65%), with the lowest on-time deliveries.
+![image](https://github.com/user-attachments/assets/d213a2e2-388f-4fb0-aa88-b4c50fba5ec3)
+
 ![Shipping By Delivery Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Shipping%20By%20Delivery%20Performance.png)
 
 ### Geographical Performance**
