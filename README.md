@@ -97,16 +97,10 @@ customer satisfaction.
 ![Customer Segment By Metrics](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Customer%20Segment%20By%20Metrics.png)
 
 **Top 5 Customer Segment**
-- Consumer Segment:
-  - The highest-selling product is Staple Envelope with $155K.
-  - Easy-staple Paper ($98K) and Staples ($116K) also perform well, while Avery Non-Stick Binders lag behind at $65K.
-- Corporate Segment:
-  - Staples lead sales at $103K, followed by Staple Envelope at $100K.
-  - Other products, like Easy-staple Paper and Avery Non-Stick Binders, contribute significantly less.
-- Home Office Segment:
-  - The top product is Easy-staple Paper, with $79K in sales.
-  - Staples perform moderately at $43K, while Avery Non-Stick Binders and Staples in Misc. Colors show minimal contribution.
-![Top 5 Customer Segment](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%205%20Customer%20Segment.png)
+- Consumer Segment: Staple Envelope tops sales at $155K, followed by Staples ($116K) and Easy-staple Paper ($98K). Avery Non-Stick Binders trail at $65K.
+- Corporate Segment: Staples lead with $103K, closely followed by Staple Envelope ($100K). Other products contribute less.
+- Home Office Segment: Easy-staple Paper dominates with $79K, Staples perform modestly ($43K), while others have minimal sales.
+  ![Top 5 Customer Segment](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%205%20Customer%20Segment.png)
 
 ### DASHBOARD
 The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
