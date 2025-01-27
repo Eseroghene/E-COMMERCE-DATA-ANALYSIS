@@ -108,13 +108,10 @@ customer satisfaction.
   - Staples perform moderately at $43K, while Avery Non-Stick Binders and Staples in Misc. Colors show minimal contribution.
 ![Top 5 Customer Segment](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%205%20Customer%20Segment.png)
 
-
 ### DASHBOARD
 The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
 
-![Dashboard 2](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%202.png)
-
-![Dashboard](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard.png)
+![Dashboard 1](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%201.png)
 
 ## RECOMMENDATIONS
 
