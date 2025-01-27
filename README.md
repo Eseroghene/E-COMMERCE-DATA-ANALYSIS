@@ -124,7 +124,7 @@ The project includes an interactive dashboard to visualize key insights from the
 - Improve strategies to attract new customers while retaining existing ones.
 - Investigate and address the reasons for the high late delivery rate for Same Day shipping to improve on-time 
   performance.
-- Focus on reducing late deliveries for First Class despite its high advance shipping rate.
+- Focus on reducing late deliveries for First Class despite its high shipping rate.
 - Maintain the current performance of Second Class as it provides a balanced service.
 - Continue monitoring and maintaining the well-balanced performance of Standard Class.
 - Invest in the West for higher revenue ($16.7M) and A.O.V (433.2).
@@ -136,4 +136,5 @@ The project includes an interactive dashboard to visualize key insights from the
 - Focus on driving repeat sales in the Consumer segment with targeted marketing.
 - Strengthen Corporate segment relationships and offer bulk discounts.
 - Invest in tailored products and marketing for Home Office & Home segments.
+- Develop strategies to boost sales of Easy-staple Paper and Avery Non-Stick Binders in the Corporate segment.
 
