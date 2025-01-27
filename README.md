@@ -55,7 +55,7 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 - The 71.18% retention rate supports the idea of strong customer loyalty.
 ![% Returning Customers](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/%25%20Returning%20Customers.png)
  
- ### Shipping Type Vs Delivery Performance
+ ### Shipping Type By Delivery Performance
  
 - Same Day: Best for on-time delivery (48.57%), but high late delivery (45.65%).
 - Second Class: Balanced performance with a 71.46% late delivery rate, low advance shipping, and no data on cancellations.
@@ -96,7 +96,7 @@ customer satisfaction.
 - All segment Revenue seems to be affected by the discount on orders/products
 ![Customer Segment By Metrics](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Customer%20Segment%20By%20Metrics.png)
 
-**Top 5 Customer Segment**
+**Top 5 Product Categories and Customer Segment By Sales
 - Consumer Segment: Staple Envelope tops sales at $155K, followed by Staples ($116K) and Easy-staple Paper ($98K). Avery Non-Stick Binders trail at $65K.
 - Corporate Segment: Staples lead with $103K, closely followed by Staple Envelope ($100K). Other products contribute less.
 - Home Office Segment: Easy-staple Paper dominates with $79K, Staples perform modestly ($43K), while others have minimal sales.
@@ -106,6 +106,7 @@ customer satisfaction.
 The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
 
 ![Dashboard 1](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%201.png)
+![Dashboard 2](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%202.png)
 
 ## RECOMMENDATIONS
 
