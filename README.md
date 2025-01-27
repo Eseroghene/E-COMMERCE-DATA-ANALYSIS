@@ -47,22 +47,20 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
   - Office Supplies is the top performer and leads with $31 million, contributing the most to revenue.
   - Furniture follows with $11 million in revenue.
   - Technology generates the least, with $9 million in revenue.
- ![Top performing Category](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%20Performing%20Category.png)
+ ![Top Performing Category](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%20Performing%20Category.png)
 
- ### Customer Retention and Loyalty
+### Customer Retention and Loyalty
 
  - Returning Customers: Represent 71.18% (30K), indicating strong customer retention and loyalty.
  - The 71.18% retention rate supports the idea of strong customer loyalty.
-![% Returning Customer](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/%25%20Returning%20Customers.png)
-
+![% Returning Customers](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/%25%20Returning%20Customers.png)
+ 
  ### Shipping Type Vs Delivery Performance
  
  - Same Day: Best for on-time delivery (48.57%), but high late delivery (45.65%).
  - Second Class: Balanced performance with a 71.46% late delivery rate, low advance shipping, and no data on cancellations.
  - Standard Class: Consistent with on-time delivery (20.70%), advance shipping (38.31%), and late delivery (36.87%).
  - First Class: Highest late deliveries (82.91%) and shipping cancellations (9.65%), with the lowest on-time deliveries.
-![image](https://github.com/user-attachments/assets/d213a2e2-388f-4fb0-aa88-b4c50fba5ec3)
-
 ![Shipping By Delivery Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Shipping%20By%20Delivery%20Performance.png)
 
 ### Geographical Performance**
@@ -72,7 +70,7 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 - Correlation: Higher revenue is linked to higher A.O.V, showing a possible cause of high sales in the West region.
 ![Georaphical Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Geographical%20Performance.png)
 
-### Delivery Vs Sales Relationship By Regions
+### Delivery And Sales Relationship By Regions
  
 - Late Delivery: Sales remain high across all regions despite delays, with the West leading, indicating strong product quality and 
 customer satisfaction.
@@ -86,8 +84,19 @@ customer satisfaction.
 - Consumer Segment: Dominates in quantity and product,showing the highest interest in products and  driving overall sales.
 - Corporate Segment: Makes a strong contribution to revenue.
 - Home Office & Home Segments: Smaller but still significant, with growth potential in these areas.
-![Customer Segmentation](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Customer%20Segmentation.png)
+![Customer Segment by Category](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Customer%20Segment%20by%20Category.png)
 
+**Customer Segment By Metrics**
+
+- Consumer Segment: Dominates in quantity and product,showing the highest interest in products and  driving overall sales.
+- Corporate Segment: Makes a strong contribution to revenue.
+- Home Office & Home Segments: Smaller but still significant, with growth potential in these areas.
+- All segment Revenue seems to be affected by the discount on orders/products
+![Customer Segment By Metrics](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Customer%20Segment%20By%20Metrics.png)
+
+**Top 5 Customer Segment
+- 
+![Top 5 Customer Segment](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%205%20Customer%20Segment.png)
 ### DASHBOARD
 The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
 
