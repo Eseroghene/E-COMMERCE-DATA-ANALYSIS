@@ -31,36 +31,36 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 ## DASHBOARD INSGHTS
 ### Historical Sales Trend
   **Annually**
- - From 2015 to 2018, sales remained steady at $1M. However, from 2019 to 2022, there was significant growth, reaching $25M by the end of the period.
+- From 2015 to 2018, sales remained steady at $1M. However, from 2019 to 2022, there was significant growth, reaching $25M by the end of the period.
 ![Sales By Year](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Sales%20By%20Year.png)
 
  **Monthly**
- - Monthly sales showed fluctuations, with October recording the highest sales at $5.5M and December the lowest at $3.7M.
+- Monthly sales showed fluctuations, with October recording the highest sales at $5.5M and December the lowest at $3.7M.
 ![Sales By Month](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Sales%20By%20Month.png)
 
 **Seasonal**
- - There were high sales in the spring and early summer (Q2), but sales fell drastically from the winter to the spring (Q1 to Q2).
+- There were high sales in the spring and early summer (Q2), but sales fell drastically from the winter to the spring (Q1 to Q2).
 ![Sales By Season](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Sales%20By%20Season.png)
  
 ### Top Performing Categories
 	
-  - Office Supplies is the top performer and leads with $31 million, contributing the most to revenue.
-  - Furniture follows with $11 million in revenue.
-  - Technology generates the least, with $9 million in revenue.
+- Office Supplies is the top performer and leads with $31 million, contributing the most to revenue.
+- Furniture follows with $11 million in revenue.
+- Technology generates the least, with $9 million in revenue.
  ![Top Performing Category](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%20Performing%20Category.png)
 
 ### Customer Retention and Loyalty
 
- - Returning Customers: Represent 71.18% (30K), indicating strong customer retention and loyalty.
- - The 71.18% retention rate supports the idea of strong customer loyalty.
+- Returning Customers: Represent 71.18% (30K), indicating strong customer retention and loyalty.
+- The 71.18% retention rate supports the idea of strong customer loyalty.
 ![% Returning Customers](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/%25%20Returning%20Customers.png)
  
  ### Shipping Type Vs Delivery Performance
  
- - Same Day: Best for on-time delivery (48.57%), but high late delivery (45.65%).
- - Second Class: Balanced performance with a 71.46% late delivery rate, low advance shipping, and no data on cancellations.
- - Standard Class: Consistent with on-time delivery (20.70%), advance shipping (38.31%), and late delivery (36.87%).
- - First Class: Highest late deliveries (82.91%) and shipping cancellations (9.65%), with the lowest on-time deliveries.
+- Same Day: Best for on-time delivery (48.57%), but high late delivery (45.65%).
+- Second Class: Balanced performance with a 71.46% late delivery rate, low advance shipping, and no data on cancellations.
+- Standard Class: Consistent with on-time delivery (20.70%), advance shipping (38.31%), and late delivery (36.87%).
+- First Class: Highest late deliveries (82.91%) and shipping cancellations (9.65%), with the lowest on-time deliveries.
 ![Shipping By Delivery Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Shipping%20By%20Delivery%20Performance.png)
 
 ### Geographical Performance**
@@ -81,9 +81,11 @@ customer satisfaction.
 
 ### Customer Segmentation
 
-- Consumer Segment: Dominates in quantity and product,showing the highest interest in products and  driving overall sales.
-- Corporate Segment: Makes a strong contribution to revenue.
-- Home Office & Home Segments: Smaller but still significant, with growth potential in these areas.
+**Customer Segment by Category**
+
+- Consumer segment leads sales, with Furniture at $16.1M.
+- Office Supplies dominate in Corporate ($9.4M) and Home Office ($5.6M).
+- Technology underperforms across all segments.
 ![Customer Segment by Category](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Customer%20Segment%20by%20Category.png)
 
 **Customer Segment By Metrics**
@@ -94,9 +96,19 @@ customer satisfaction.
 - All segment Revenue seems to be affected by the discount on orders/products
 ![Customer Segment By Metrics](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Customer%20Segment%20By%20Metrics.png)
 
-**Top 5 Customer Segment
-- 
+**Top 5 Customer Segment**
+- Consumer Segment:
+  - The highest-selling product is Staple Envelope with $155K.
+  - Easy-staple Paper ($98K) and Staples ($116K) also perform well, while Avery Non-Stick Binders lag behind at $65K.
+- Corporate Segment:
+  - Staples lead sales at $103K, followed by Staple Envelope at $100K.
+  - Other products, like Easy-staple Paper and Avery Non-Stick Binders, contribute significantly less.
+- Home Office Segment:
+  - The top product is Easy-staple Paper, with $79K in sales.
+  - Staples perform moderately at $43K, while Avery Non-Stick Binders and Staples in Misc. Colors show minimal contribution.
 ![Top 5 Customer Segment](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%205%20Customer%20Segment.png)
+
+
 ### DASHBOARD
 The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
 
