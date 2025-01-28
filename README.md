@@ -107,6 +107,7 @@ The project includes an interactive dashboard to visualize key insights from the
 
 ![Dashboard 1](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%201.png)
 ![Dashboard 2](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%202.png)
+![Dashboard 3](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%203.png)
 
 ## RECOMMENDATIONS
 
