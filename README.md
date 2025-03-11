@@ -32,11 +32,10 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 ### Historical Sales Trend
   **Annually**
 - From 2015 to 2018, sales remained steady at $1M. However, from 2019 to 2022, there was significant growth, reaching $25M by the end of the period.
-![Sales By Year](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Sales%20By%20Year.png)
+<img width="793" alt="Screenshot 2025-03-11 at 6 18 49 PM" src="https://github.com/user-attachments/assets/291da276-1476-4512-a386-ac147df42c88" />
 
- **Monthly**
 - Monthly sales showed fluctuations, with October recording the highest sales at $5.5M and December the lowest at $3.7M.
-![Sales By Month](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Sales%20By%20Month.png)
+<img width="785" alt="Screenshot 2025-03-11 at 6 19 20 PM" src="https://github.com/user-attachments/assets/04b9568b-1226-4294-9884-acfd4803ca43" />
 
 **Seasonal**
 - There were high sales in the spring and early summer (Q2), but sales fell drastically from the winter to the spring (Q1 to Q2).
@@ -47,13 +46,13 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 - Office Supplies is the top performer and leads with $31 million, contributing the most to revenue.
 - Furniture follows with $11 million in revenue.
 - Technology generates the least, with $9 million in revenue.
- ![Top Performing Category](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%20Performing%20Category.png)
+<img width="789" alt="Screenshot 2025-03-11 at 6 20 54 PM" src="https://github.com/user-attachments/assets/068a27b8-343e-46a2-8ad1-55561454c9f8" />
 
 ### Customer Retention and Loyalty
-
 - Returning Customers: Represent 71.18% (30K), indicating strong customer retention and loyalty.
 - The 71.18% retention rate supports the idea of strong customer loyalty.
-![% Returning Customers](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/%25%20Returning%20Customers.png)
+<img width="785" alt="Screenshot 2025-03-11 at 6 21 51 PM" src="https://github.com/user-attachments/assets/978ecfc7-c573-4659-9056-7ed15a6281ef" />
+
  
  ### Shipping Type By Delivery Performance
  
@@ -61,14 +60,16 @@ This project explores an E-Commerce dataset to uncover actionable insights and t
 - Second Class: Balanced performance with a 71.46% late delivery rate, low advance shipping, and no data on cancellations.
 - Standard Class: Consistent with on-time delivery (20.70%), advance shipping (38.31%), and late delivery (36.87%).
 - First Class: Highest late deliveries (82.91%) and shipping cancellations (9.65%), with the lowest on-time deliveries.
-![Shipping By Delivery Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Shipping%20By%20Delivery%20Performance.png)
+<img width="788" alt="Screenshot 2025-03-11 at 6 22 30 PM" src="https://github.com/user-attachments/assets/6eeb3ae3-0eab-4c9d-953e-a8399b90c137" />
+
 
 ### Geographical Performance**
 
 - West region has the highest revenue with $16.7M, while South has the lowest at $8.4M. There’s a decline from West to South.
 - West region has the highest A.O.V at 433.2, and South the lowest at 425.2. A.O.V decreases similarly to revenue.
 - Correlation: Higher revenue is linked to higher A.O.V, showing a possible cause of high sales in the West region.
-![Georaphical Performance](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Geographical%20Performance.png)
+<img width="468" alt="Screenshot 2025-03-11 at 6 22 56 PM" src="https://github.com/user-attachments/assets/beb9e0b3-9a76-4f6a-88cd-44f9a774cb96" />
+
 
 ### Delivery And Sales Relationship By Regions
  
@@ -77,7 +78,8 @@ customer satisfaction.
 - Advance Shipping: The West shows the highest demand for faster delivery, followed by the East, South, and Central regions.
 - On-Time Delivery: The East achieves the highest revenue, reflecting a focus on timely delivery and customer satisfaction, while the 
 - Central struggles with low revenue due to delivery challenges.
-![Delivery and Sales by Region](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Delivery%20and%20Sales%20by%20Region.png)		
+<img width="614" alt="Screenshot 2025-03-11 at 6 23 27 PM" src="https://github.com/user-attachments/assets/43f97298-ea20-41b0-ba5a-ade3ba279593" />
+
 
 ### Customer Segmentation
 
@@ -94,20 +96,21 @@ customer satisfaction.
 - Corporate Segment: Makes a strong contribution to revenue.
 - Home Office & Home Segments: Smaller but still significant, with growth potential in these areas.
 - All segment Revenue seems to be affected by the discount on orders/products
-![Customer Segment By Metrics](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Customer%20Segment%20By%20Metrics.png)
+<img width="801" alt="Screenshot 2025-03-11 at 6 24 46 PM" src="https://github.com/user-attachments/assets/7e522412-19af-40e1-8674-3098b1a996f0" />
 
-**Top 5 Product Categories and Customer Segment By Sales
+
+**Top 5 Product Categories and Customer Segment By Sales***
 - Consumer Segment: Staple Envelope tops sales at $155K, followed by Staples ($116K) and Easy-staple Paper ($98K). Avery Non-Stick Binders trail at $65K.
 - Corporate Segment: Staples lead with $103K, closely followed by Staple Envelope ($100K). Other products contribute less.
 - Home Office Segment: Easy-staple Paper dominates with $79K, Staples perform modestly ($43K), while others have minimal sales.
-  ![Top 5 Customer Segment](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Top%205%20Customer%20Segment.png)
+<img width="787" alt="Screenshot 2025-03-11 at 6 25 41 PM" src="https://github.com/user-attachments/assets/f062c7bc-81d6-41f6-8d1f-88fbac421bf3" />
 
 ### DASHBOARD
 The project includes an interactive dashboard to visualize key insights from the data. Below is a preview:
 
-![Dashboard 1](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%201.png)
-![Dashboard 2](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%202.png)
-![Dashboard 3](https://github.com/Eseroghene/E-COMMERCE-DATA-ANALYSIS/blob/main/Dashboard%203.png)
+<img width="815" alt="Screenshot 2025-03-11 at 6 33 48 PM" src="https://github.com/user-attachments/assets/8e821acf-656e-4198-be35-1614251480d5" />
+<img width="814" alt="Screenshot 2025-03-11 at 6 34 27 PM" src="https://github.com/user-attachments/assets/f00ce0e1-6314-48a8-82b2-21531edff9f6" />
+<img width="821" alt="Screenshot 2025-03-11 at 6 35 06 PM" src="https://github.com/user-attachments/assets/12ee117d-2830-4766-86e4-e71fb97291c9" />
 
 ## RECOMMENDATIONS
 
